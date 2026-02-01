@@ -10,7 +10,7 @@ The page displays the **first 50 Airbnb listings** from a dataset and renders th
 ## 🔗 Live Deployment
 
 👉 **GitHub Pages:**
-[https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)
+[https://github.com/dahn0209/Airbnb_Javascript_DOM_Self_Assessment](https://github.com/dahn0209/Airbnb_Javascript_DOM_Self_Assessment)
 
 
 ---
